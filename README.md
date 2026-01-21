@@ -56,7 +56,9 @@ The report utilizes a **3-Tier Decision Support System**:
 * **Goal:** Tactical list of what to fix *right now*.
 * **Key Visuals:** Live "Countdown Timer" table with conditional formatting (Red alert when < 2 hours remain).
 
-![Page 3 Screenshot](https://via.placeholder.com/800x400?text=Insert+Page+3+Action+Console+Here)
+
+![Uploading image.png…]()
+
 
 ---
 

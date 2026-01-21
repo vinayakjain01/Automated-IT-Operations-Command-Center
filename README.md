@@ -41,7 +41,8 @@ The report utilizes a **3-Tier Decision Support System**:
 * **Goal:** High-level status of the backlog and system stability.
 * **Key Visuals:** Treemap of System Failures, Volume Trend Analysis, and "Backlog Composition" (Active vs. Vendor Pending).
 
-![Page 1 Screenshot](https://via.placeholder.com/800x400?text=Insert+Page+1+Executive+View+Here)
+<img width="1262" height="715" alt="image" src="https://github.com/user-attachments/assets/954eaed7-125c-4768-b33d-3bb147f772bf" />
+
 
 ### 2. Risk & Root Cause Analysis (The Manager View)
 * **Goal:** Identify *why* tickets are breaching.

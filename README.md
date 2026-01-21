@@ -49,7 +49,8 @@ The report utilizes a **3-Tier Decision Support System**:
 * **Key Visuals:** * **Decomposition Tree (AI):** Drills down from Breach % → Category → specific Issue Type.
     * **Agent Performance Matrix:** Compares "Speed" vs. "Quality" (Breach rate).
 
-![Page 2 Screenshot](https://via.placeholder.com/800x400?text=Insert+Page+2+Root+Cause+Here)
+<img width="1257" height="705" alt="image" src="https://github.com/user-attachments/assets/b15adef7-290f-4a9d-aa55-1b4154e0155b" />
+
 
 ### 3. Live Action Console (The Agent View)
 * **Goal:** Tactical list of what to fix *right now*.
